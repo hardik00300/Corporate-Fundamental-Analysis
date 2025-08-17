@@ -10,10 +10,8 @@ This divergence raised an important question:
 
 ## Approach
 - Collected **Balance Sheet** and **Income Statement** data using `yfinance`
-- Computed **key financial ratios** (Profitability, Liquidity, Efficiency, Leverage)  
-- Built a **Python-powered framework** to automate ratio calculation  
+- Computed **key financial ratios** (Profitability, Liquidity, Efficiency, Leverage)    
 - Visualised trends for each company over **5 years**  
-- Interpreted results in the context of **tariffs & market resilience**
 
 ## Companies Analysed
 - **HDFC Bank** – Banking & Financials  
